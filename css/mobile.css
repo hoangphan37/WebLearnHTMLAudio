@@ -57,3 +57,10 @@
     }
     
 }
+
+
+@media (max-width: 360px) {
+    #conitnue-up{
+        display: none;
+    }
+}
